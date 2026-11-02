@@ -30,7 +30,7 @@ npm run dev
 ```
 
 ### 3. Membuka di Browser
-Buka file `index.html` menggunakan Google Chrome, atau rekomendasinya menggunakan *extension* **Live Server** di VS Code (`http://127.0.0.1:5500`) atau via local server **Laragon** (`http://landing.test`).
+Buka file `index.html` menggunakan Google Chrome, atau rekomendasinya menggunakan *extension* **Live Server** di VS Code (`http://127.0.0.1:5500`) atau via local server **Laragon** (`http://landing.test`) tambahkan port bila mngubah port Apache nya contoh (`http://landing.test:8080`).
 
 ## 📦 Cara Membuat Production Build
 Sebelum mengunggah website ke server hosting (*production*), jalankan perintah berikut untuk mengompresi file CSS agar ukurannya seminimal mungkin:
